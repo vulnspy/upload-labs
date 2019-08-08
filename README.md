@@ -12,6 +12,10 @@
 
 **upload-labs是一个使用php语言编写的，专门收集渗透测试和CTF中遇到的各种上传漏洞的靶场。旨在帮助大家对上传漏洞有一个全面的了解。目前一共20关，每一关都包含着不同上传方式。**
 
+<a href="https://www.vsplate.com/?github=vulnspy/upload-labs"><img alt="VSPLATE GO" src="https://raw.githubusercontent.com/vsplate/images/master/vsgo_btn.png" width="200px"></a>
+
+**Click the `VSPLATE GO` button to launch a demo online / 点击`VSPLATE GO`按钮创建在线环境**
+
 ## 0x01 Screenshot
 
 #### 1.1 主界面
