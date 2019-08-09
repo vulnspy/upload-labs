@@ -7,5 +7,6 @@ services:
     volumes:
       - ./upload/:/var/www/html/upload/
       - ./docker-php.conf:/etc/apache2/conf-enabled/docker-php.conf
+      - ./apache2.conf:/etc/apache2/apache2.conf
     ports:
       - "80:80"
