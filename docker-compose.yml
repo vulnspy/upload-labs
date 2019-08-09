@@ -2,9 +2,7 @@ version: '3'
 
 services:
   web:
-    image: php:7.2.2-apache
+    image: c0ny1/upload-labs:latest
     container_name: php_web
-    volumes:
-      - .:/var/www/html/
     ports:
       - "80:80"
