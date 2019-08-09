@@ -6,5 +6,6 @@ services:
     container_name: php_web
     volumes:
       - ./upload/:/var/www/html/upload/
+      - ./docker-php.conf:/etc/apache2/conf-enabled/docker-php.conf
     ports:
       - "80:80"
